@@ -4,7 +4,7 @@ This project is a custom-built LinkedIn Post Generator that uses **Meta’s LLaM
 
 ---
 
-## 💡 Features
+##  Features
 
 -  **Topic-aware post generation** — Generates content based on user-specified topics.
 -  **Few-shot learning** — Tuned with example posts for tone, style, and structure.
