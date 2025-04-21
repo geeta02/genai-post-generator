@@ -25,7 +25,6 @@ This project is a custom-built LinkedIn Post Generator that uses **Meta’s LLaM
 ---
 ##  Acknowledgements
 
-This project was **inspired by** the Codebasics.
 
 The following enhancements were made in this custom version:
 - Replaced model with **Meta’s LLaMA 3.2** model for content generation.
